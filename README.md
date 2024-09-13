@@ -1,11 +1,12 @@
 # ECoTEEDz
-<img width="904" alt="image" src="https://github.com/user-attachments/assets/043308c2-5127-4d7a-8b2f-dca1035d63d1">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/9e124030-a68f-486f-bf93-b071a5b8d2c4">
 
 # Product Page
-<img width="847" alt="image" src="https://github.com/user-attachments/assets/c02c052e-93b8-48db-8a8e-0a0553648adc">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/71ae14c8-2036-4ac5-8bf6-6f3cff795bf7">
 
-# Cart
-<img width="802" alt="image" src="https://github.com/user-attachments/assets/cffe842e-5c04-4828-80d3-e5b55f626d73">
+# Variant selection just like shopify
+### the price value changes in real time as we change the variants.
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/17bb3dc1-7819-47f0-924e-f38140ad4726">
 
 ## Features
 -[✅] landing Page <br>
